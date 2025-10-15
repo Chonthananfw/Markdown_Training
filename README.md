@@ -1,19 +1,41 @@
-# บทความที่ต้องอ่าน
+# ภาคผนวก (ยังหาคำ บ้าน ๆ เข้าใจง่ายๆ ไม่ได้)
+## ระเบียบปฏิบัติ และ วัฒนธรรมขององค์กร
+
+ตารางเปรียบเทียบระหว่าง **ระเบียบปฏิบัติ (Practices)** และ **วัฒนธรรมองค์กร (Organization Culture)**  
+ซึ่งแสดงให้เห็นความแตกต่างในด้านต่าง ๆ จำนวน 5 ด้าน ตามตาราง
 
 <table>
     <tr>
-      <th style="font-weight:bold; text-align:left;">ชื่อบทความ</th>
-      <th style="font-weight:bold; text-align:left;">ลิงก์</th>
+      <th>หัวข้อ</th>
+      <thระเบียบปฏิบัติ></th>
+      <th>วัฒนธรรมองค์กร</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Physics of Test-Driven Development</b></td>
-      <td><a href="https://blog.wingman-sw.com/physics-of-test-driven-development">https://blog.wingman-sw.com/physics-of-test-driven-development</a></td>
+      <td><b>ความหมาย</b></td>
+      <td>กฎเกณฑ์และขั้นตอนที่กำหนดไว้เพื่อควบคุมการทำงาน และการดำเนินกิจกรรม</td>
+      <td>ค่านิยม ความเชื่อ ทัศนคติ และพฤติกรรมที่ร่วมกันของคนในองค์กร</td>
     </tr>
     <tr>
-      <td><b>Make Learning a Part of Your Daily Routine</b></td>
-      <td><a href="https://hbr.org/2021/11/make-learning-a-part-of-your-daily-routine?utm_medium=social&utm_campaign=hbr&utm_source=facebook&tpcc=orgsocial_edit&fbclid=IwZXh0bgNhZW0CMTEAAR3hxzL9yl5AkCHATCfwqjzMBF1voHSLX1R5ab8c4nUUVxEfvzMhVku-i1Y_aem_GAL8lbjhhbPX580_m-lFw">https://hbr.org/2021/11/make-learning-a-part-of-your-daily-routine</a></td>
+      <td><b>จุดประสงค์</b></td>
+      <td>ควบคุมและแนะนำวิธีการทำงานให้มีประสิทธิภาพและปลอดภัย</td>
+      <td>สร้างสภาพแวดล้อมที่ส่งเสริมการทำงานและความพึงพอใจ</td>
+    </tr>
+    <tr>
+      <td><b>การนำไปใช้</b></td>
+      <td>นำไปใช้โดยการประกาศและการอบรมให้พนักงานรับรู้</td>
+      <td>สะท้อนผ่านการกระทำและทัศนคติที่เกิดขึ้นในชีวิตประจำวัน</td>
+    </tr>
+    <tr>
+      <td><b>การเปลี่ยนแปลง</b></td>
+      <td>สามารถเปลี่ยนแปลงได้ตามความต้องการและสถานการณ์</td>
+      <td>การเปลี่ยนแปลงใช้เวลานานและความพยายามในการปรับปรุง</td>
+    </tr>
+    <tr>
+      <td><b>ตัวอย่าง</b></td>
+      <td>นโยบายการลาหยุด ขั้นตอนการทำงาน การประเมินผลการทำงาน</td>
+      <td>สะท้อนผ่านบรรยากาศและพฤติกรรมของพนักงานในชีวิตประจำวัน</td>
     </tr>
   </tbody>
 </table>
